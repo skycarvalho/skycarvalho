@@ -1,45 +1,71 @@
-## <div align="center"> Hi :)
- 
+## <div align="center"> Hi, I'm Ana 👋 </div>
 
- 
- 
- <div align="center">
-   <a href="https://github.com/skycarvalho">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andpanic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andpanic&layout=compact&langs_count=7&theme=tokyonight"/>
- </div>
-      
-   <div style="display:flex; " align="center">
-   Hello World!
 
-I'm Ana. The technology area fascinates me since I was 15 years old, where I had my first contact with HTML and CSS. I am currently a junior development analyst at @quintoandar. I have a lot of energy and willpower to grow more and more professionally. I am in constant motion with my studies and I love what I do.
+<div align="center">
 
-interest in quality assurece , automation testing, performance testing.
-   ##
-  
-    
-<img src="https://img.shields.io/badge/-Python-E34A86?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-    
-##
-  
-  
-  
-<a href="https://www.linkedin.com/in/anacarvalhocarolina/">
- <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ritik-rawal-698a18142/](https://www.linkedin.com/in/anacarvalhocarolina/)"/>
- 
+### 👩‍💻 About me
 
- 
-</a>
- 
-    
+Sou **Analista de Qualidade (QA)** com forte atuação em **Qualidade de Software, Gestão de Incidentes e SQL Server**.  
+Tenho experiência garantindo **estabilidade, eficiência e confiabilidade** de sistemas em ambientes de alta complexidade e alto volume de dados.
+
+Atuo desde a **análise de requisitos e definição de cenários de teste**, até **investigação profunda de bugs**, validações técnicas via **API** e **análises em banco de dados** para identificar causas raiz (RCA).
+
+Aqui no GitHub compartilho estudos, automações, consultas SQL e experimentos focados em **qualidade, dados e confiabilidade de software** 🚀
+
 </div>
 
+---
 
+### 🧪 Quality Assurance & Testing
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+- Planejamento e execução do **ciclo completo de QA**
+- Testes **manuais** e **validações técnicas de API**
+- Investigação e priorização de bugs baseada em impacto real
+- Root Cause Analysis (RCA) e prevenção de reincidências
+- Documentação técnica (SOPs, fluxos, critérios de aceite, evidências)
+- Comunicação técnica com Produto, Engenharia e Operações
+
+---
+
+### 🗄️ SQL & Data for QA
+
+- SQL Server em **alta volumetria (milhões de registros)**
+- Criação e otimização de **procedures, functions e views**
+- JOINs avançados, CTEs, subqueries e funções analíticas
+- Validação de dados, troubleshooting e análises de impacto
+- Execução segura de UPDATE/DELETE em massa
+- Otimização via índices e plano de execução
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</div>
+
+---
+
+### 🎯 Current Focus
+
+- Automação de testes com **Cypress**
+- Qualidade aplicada a **APIs e dados**
+- SQL avançado para suporte a QA e incidentes
+- Melhoria contínua de processos de qualidade
+
+---
+
+### 🌐 Let's connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anacarvalhocarolina/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
